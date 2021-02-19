@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+.navbarTop .buttons a {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbarTop .buttons a:hover {
+  background-color: #efeff0;
+}
+
+/*# sourceMappingURL=navbar_top.css.map */

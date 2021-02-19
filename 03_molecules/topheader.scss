@@ -1,0 +1,19 @@
+@import "../01_fundamentals/fundamentals";
+
+.topBar ul {
+  list-style: none;
+  color: $gray;
+  font-size: $small;
+  font-family: $mainFont;
+  font-weight: $bold;
+  background-color: $lightgray;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding-left: $padding;
+  padding-right: $padding;
+}
+
+.topBar ul li {
+  padding: 10px;
+}

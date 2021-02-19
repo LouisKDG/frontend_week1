@@ -1,0 +1,16 @@
+@import "../02_atoms/nav_button";
+
+.navbarTop {
+  display: flex;
+  justify-content: space-between;
+  padding-left: $padding;
+  padding-right: $padding;
+}
+
+.navbarTop {
+  margin-top: 10px;
+}
+
+.navbarTop img {
+  padding: 20px;
+}

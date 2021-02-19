@@ -1,0 +1,20 @@
+@import "../01_fundamentals/fundamentals";
+
+.navbarTop .buttons a {
+  font-size: $medium;
+  font-family: $mainFont;
+  font-weight: $bold;
+  color: $darkgray;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbarTop .buttons a:hover {
+  background-color: $lightgray;
+}
+
+.navbarTop .buttons ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
